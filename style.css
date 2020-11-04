@@ -1,0 +1,10 @@
+.d3-tip {
+    width: 10vw;
+    padding: 5px;
+    background-color: #696969;
+    color: white;
+    position: absolute;
+    border: 1px solid white;
+    border-radius: 5px;
+    visibility: hidden;
+}
